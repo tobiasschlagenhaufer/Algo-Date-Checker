@@ -6,8 +6,9 @@ Google Update Algorithm Visualization tool for Google Ananlytics data
 
 * Visially Compare Past Updates with your traffic data
 * Add and remove custom Google algo updates
-
+---
 ![](AUV_update_adder.png) 
 * Upload and Compare any Google Analytics csv data
+---
 
 Developed in PHP, using MySQL and Bootstrap for the frontend
